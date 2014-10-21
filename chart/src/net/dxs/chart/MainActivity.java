@@ -14,7 +14,6 @@ public class MainActivity extends Activity {
 	}
 
 	private void init() {
-		// TODO Auto-generated method stub
 		
 	}
 
